@@ -97,7 +97,6 @@ def changing_alan
           :languages => ["C"]
         }
      }
-     alans_new_info = "GUI"
      programmer_hash[:grace_hopper]
 end
 
