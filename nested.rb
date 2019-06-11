@@ -99,7 +99,7 @@ def changing_alan
      }
      alans_new_info = "GUI"
      programmer_hash[:alan_kay][:known_for] = "GUI"
-     puts programmer_hash[:alan_kay][:known_for]
+     puts programmer_hash[:alan_kay]
      
 end
 
